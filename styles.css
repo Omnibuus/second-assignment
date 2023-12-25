@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+
+main{
+    width: 1440px;
+    height: 840px;
+    display: flex;
+    font-family: lato, sans-serif;
+    border: 1px solid purple;
+    background-color: ;
+    
+    
+   
+    
+    
+}
+
+.left{
+    width: 460px;
+    height: 275px;
+    background-color: brown;
+    margin-top: 205px;
+    margin-left: 140px;
+
+
+    
+}
+
+.right{
+    border-radius: 6px;
+    width: 580px;
+    height: 679px;
+    margin-top: 81px;
+    margin-left: 100px;
+    background-color: blueviolet;
+    box-shadow: #0408131A;
+
+    padding: 20px
+    
+    
+    
+    
+}
+
+.logo-img{
+    width: 77.33px;
+    height: 77.17px;
+}
+
+.first-name{
+    display: block;
+}
+
+.last-name{
+    display: block;
+}
+
+.container-one{
+    display: ;
+}
+
+.first-input{
+    width: 238px;
+    height: 48px;
+}
+
+#actiity-level{
+    width: 500px;
+    height: 48px;
+}
+
+.activity-div{
+    weight: 500px;
+    height: 72px;
+}
+
+.password-input{
+    width: 500px;
+    height: 48px;
+}
+
+button{
+    width: 500px;
+    height: 48px;
+    background-color: #2EC4B6;
+    ;
+}
